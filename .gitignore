@@ -1,0 +1,4 @@
+parte-2/ASTAR_test/*.output
+parte-2/ASTAR_test/*.stat
+parte-1/CSP_test/*.csv
+/env
