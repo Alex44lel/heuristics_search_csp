@@ -79,18 +79,6 @@ python ASTARRodaje.py ASTAR_test/mapa0.csv 4
 
 ## Running All Tests
 
-### Windows
-```cmd
-# CSP tests
-cd parte-1
-CSP-calls.bat
-
-# A* tests  
-cd parte-2
-ASTAR-calls.bat
-```
-
-### Linux/Mac
 ```bash
 # CSP tests
 cd parte-1
@@ -118,6 +106,3 @@ python ASTARRodaje.py ASTAR_test/mapa1.csv 4
 └── requirements.txt   # Python dependencies
 ```
 
-## License
-
-This project is for educational purposes.
